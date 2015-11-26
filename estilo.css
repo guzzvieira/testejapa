@@ -1,0 +1,16 @@
+body
+{
+	background-color: #333333;
+	color: #EEEEEE;
+}
+h1
+{
+	font-family: helvetica;
+	color: crimson;
+}
+#rodape
+{
+	vertical-align: bottom;
+	text-align: center;
+	margin-top: 25%;
+}
